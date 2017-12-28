@@ -1,0 +1,9 @@
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\bin\Debug\Send sms Message.exe.config
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\bin\Debug\Send sms Message.exe
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\bin\Debug\Send sms Message.pdb
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send sms Message.csprojResolveAssemblyReference.cache
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send_sms_Message.Form1.resources
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send_sms_Message.Properties.Resources.resources
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send sms Message.csproj.GenerateResource.Cache
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send sms Message.exe
+C:\Users\Jitem\Desktop\C# Denemeler\Send sms Message\Send sms Message\obj\Debug\Send sms Message.pdb
